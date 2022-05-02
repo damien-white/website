@@ -1,0 +1,12 @@
+/node_modules
+/.next/
+/out/
+
+next.config.js
+next-env.d.ts
+
+.eslintrc.json
+tsconfig.json
+
+pnpm-lock.yaml
+package.json
